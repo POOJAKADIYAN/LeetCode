@@ -4,13 +4,12 @@
 
 // **Example:**
 
-// ```
 // Input:  mat[][] = {{1, 2, 9}
 //                    {5, 3, 8}
 //                    {4, 6, 7}}
 // Output: 4
 // The longest path is 6-7-8-9.
-// ```
+
 
 // ## SOLUTION -
 

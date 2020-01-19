@@ -5,11 +5,8 @@
 // **Output:**For each testcase, in a new line, print the **maximum possible** value you can get with the given conditions that you can obtain for each test case in a new line.
 
 // **Constraints:**1 ≤ T ≤ 1001 ≤ N ≤ 10001 ≤ W ≤ 10001 ≤ wt[i] ≤ 10001 ≤ v[i] ≤ 1000
-
 // **Example:**
-
 // **Input:**2
-
 // 3
 
 // 4

@@ -9,9 +9,7 @@
 // has_cycle has the following parameter(s):
 
 // - head: a pointer to a *Node* object that points to the head of a linked list.
-
 // **Note:** If the list is empty, head will be *null*.
-
 // **Input Format**
 
 // There is no input for this challenge. A random linked list is generated at runtime and passed to your function.
