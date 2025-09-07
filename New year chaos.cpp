@@ -20,8 +20,7 @@
 
 // Output Format
 // Print an integer denoting the minimum number of bribes needed to get the queue into its final state. Print 
-// Too chaotic if the state is invalid, i.e. it requires a person to have bribed more than 2 people.
-
+// Too chaotic if the state is invalid, i.e. it requires a person to have bribed more than 2 people
 // Sample Input
 // 2
 // 5
